@@ -1,5 +1,5 @@
 # Leetcode 138 - Copy a list with random pointer   O(n) Space O(n) memory
-```
+```java
 class Solution {
     class Pair{
         int index1, index2;
